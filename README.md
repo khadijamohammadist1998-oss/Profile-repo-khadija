@@ -33,9 +33,22 @@ An AI-powered ATS resume analyzer built with Python, FastAPI, Prompt Engineering
 
 https://github.com/khadijamohammadist1998-oss/LLM-Powered-Resume-Analyzer
 
-🔹 Sentiment Analysis Thesis
+## 📚 Publications & Research
+
+### 🧠 Master’s Thesis – DEVELOPMENT OF DEEP LEARNING-BASED SENTIMENT ANALYSIS APPROACHES WITH NEURAL NETWORK-BASED LANGUAGE MODELS
 
 Deep Learning-based sentiment analysis using CNN, BERT, and multiple embeddings (Word2Vec, GloVe, FastText).
+
+🔗 https://github.com/khadijamohammadist1998-oss/Master-s-Thesis-Repository
+
+---
+
+### 📄 Research Paper – Enhancing Deep Learning-Based Sentiment Analysis Using Static and Contextual Language Models
+Comparative study of static and contextual language models for sentiment classification.
+
+🔗 https://github.com/khadijamohammadist1998-oss/AI-Sentiment-Analysis-Research-Paper
+
+
 
 📊 Interests
 
