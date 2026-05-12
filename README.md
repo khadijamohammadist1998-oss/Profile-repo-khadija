@@ -18,6 +18,12 @@ I am passionate about Artificial Intelligence, Natural Language Processing, and 
 
 AI-powered healthcare application that predicts possible diseases based on user symptoms using LLMs and Deep Learning models.
 
+🔹 LLM Powered Resume Analyzer
+
+An AI-powered ATS resume analyzer built with Python, FastAPI, Prompt Engineering, and LLMs. The system analyzes PDF resumes, evaluates ATS compatibility, compares resumes with job descriptions, and generates intelligent recommendations.
+
+https://github.com/khadijamohammadist1998-oss/LLM-Powered-Resume-Analyzer
+
 🔹 Sentiment Analysis Thesis
 
 Deep Learning-based sentiment analysis using CNN, BERT, and multiple embeddings (Word2Vec, GloVe, FastText).
