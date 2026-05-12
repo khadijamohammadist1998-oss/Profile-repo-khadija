@@ -1,4 +1,4 @@
-Hi, I'm a Computer Engineering Master's Student 👩‍💻
+Hi, I’m a Computer Engineering Master’s graduate 👩‍💻
 
 🚀 About Me
 
@@ -15,8 +15,17 @@ I am passionate about Artificial Intelligence, Natural Language Processing, and 
 📌 Projects
 
 🔹 Riva AI System
+Developed an AI-powered healthcare application called “Riva” for respiratory and lung disease prediction using FastAPI, Flutter, and Large Language Models (LLMs). The system allows users to enter detailed symptoms and personal health information such as age and smoking status, then predicts potential respiratory diseases using Llama-based AI models and prompt engineering techniques. Flutter was used to develop the frontend mobile application, while FastAPI was used for the backend services. Built an admin dashboard using SQLAdmin for managing users and monitoring AI-generated diagnoses. PostgreSQL was used for storing user data and diagnostic results.
 
-AI-powered healthcare application that predicts possible diseases based on user symptoms using LLMs and Deep Learning models.
+Technologies used: Python, FastAPI, Flutter, PostgreSQL, Llama, Prompt Engineering, SQLAdmin.
+
+## 🔗 Project Repositories
+
+- Backend (FastAPI):
+https://github.com/khadijamohammadist1998-oss/riva
+
+- Frontend (Flutter):
+https://github.com/khadijamohammadist1998-oss/rivaApp
 
 🔹 LLM Powered Resume Analyzer
 
