@@ -5,7 +5,7 @@ I’m a Computer Engineering Master’s graduate specializing in Artificial Inte
 
 My experience includes developing AI-powered systems using Python, FastAPI, LLMs, PostgreSQL, and Flutter, as well as conducting research in Deep Learning and Natural Language Processing.
 _____________________________________________________________________________________________________________________________________________________
-##🧠 Technical Skills
+## 🧠 Technical Skills
 
 AI & Machine Learning
 
