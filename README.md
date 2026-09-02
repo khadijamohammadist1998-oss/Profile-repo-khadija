@@ -1,5 +1,5 @@
-###👋 Hi, I'm Khadija Mohammad
-## 🤖 AI Engineer | Machine Learning | Generative AI | Python
+## 👋 Hi, I'm Khadija Mohammad
+### 🤖 AI Engineer | Machine Learning | Generative AI | Python
 
 I’m a Computer Engineering Master’s graduate specializing in Artificial Intelligence. I enjoy building practical AI applications that combine Machine Learning, NLP, LLMs, and backend technologies to solve real-world problems.
 
@@ -30,8 +30,8 @@ Database & Tools
 
 _____________________________________________________________________________________________________________________________________________________
 
-## 🚀 Featured Projects
-# 🫁 Riva — AI-Powered Healthcare System
+# 🚀 Featured Projects
+## 🫁 Riva — AI-Powered Healthcare System
 Developed an AI-powered healthcare application called “Riva” for respiratory and lung disease prediction using FastAPI, Flutter, and Large Language Models (LLMs). The system allows users to enter detailed symptoms and personal health information such as age and smoking status, then predicts potential respiratory diseases using Llama-based AI models and prompt engineering techniques. Flutter was used to develop the frontend mobile application, while FastAPI was used for the backend services. Built an admin dashboard using SQLAdmin for managing users and monitoring AI-generated diagnoses. PostgreSQL was used for storing user data and diagnostic results.
 Technologies: Python · FastAPI · Flutter · PostgreSQL · Llama · Machine Learning · Audio Processing · Prompt Engineering · SQLAdmin
 
@@ -44,7 +44,7 @@ https://github.com/khadijamohammadist1998-oss/riva
 https://github.com/khadijamohammadist1998-oss/rivaApp
 _____________________________________________________________________________________________________________________________________________________
 
-# 🤖 LLM Powered Resume Analyzer
+## 🤖 LLM Powered Resume Analyzer
 
 An AI-powered ATS resume analyzer built with Python, FastAPI, Prompt Engineering, and LLMs. The system analyzes PDF resumes, evaluates ATS compatibility, compares resumes with job descriptions, and generates intelligent recommendations.
 
@@ -52,9 +52,9 @@ An AI-powered ATS resume analyzer built with Python, FastAPI, Prompt Engineering
 
 _____________________________________________________________________________________________________________________________________________________
 
-## 📚 Publications & Research
+# 📚 Publications & Research
 
-# 🎓 Master’s Thesis – DEVELOPMENT OF DEEP LEARNING-BASED SENTIMENT ANALYSIS APPROACHES WITH NEURAL NETWORK-BASED LANGUAGE MODELS
+## 🎓 Master’s Thesis – DEVELOPMENT OF DEEP LEARNING-BASED SENTIMENT ANALYSIS APPROACHES WITH NEURAL NETWORK-BASED LANGUAGE MODELS
 
 Deep Learning-based sentiment analysis using CNN, BERT, and multiple embeddings (Word2Vec, GloVe, FastText).
 
@@ -62,13 +62,13 @@ Deep Learning-based sentiment analysis using CNN, BERT, and multiple embeddings 
 
 ---
 
-# 📄 Research Paper – Enhancing Deep Learning-Based Sentiment Analysis Using Static and Contextual Language Models
+## 📄 Research Paper – Enhancing Deep Learning-Based Sentiment Analysis Using Static and Contextual Language Models
 Comparative study of static and contextual language models for sentiment classification.
 
 🔗 https://github.com/khadijamohammadist1998-oss/AI-Sentiment-Analysis-Research-Paper
 
 
-🎯 Areas of Interest
+# 🎯 Areas of Interest
 - Generative AI
 - Machine Learning & Deep Learning
 - Natural Language Processing
@@ -76,7 +76,7 @@ Comparative study of static and contextual language models for sentiment classif
 - AI in Healthcare
 - Intelligent Systems
 
-📫 Let's Connect
+# 📫 Let's Connect
 
 - 💼 LinkedIn: www.linkedin.com/in/khadija-mohamad-840b41248
 - 🐙 GitHub: https://github.com/khadijamohammadist1998-oss
