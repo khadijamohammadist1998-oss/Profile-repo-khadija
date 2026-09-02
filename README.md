@@ -35,7 +35,7 @@ ________________________________________________________________________________
 Developed an AI-powered healthcare application called “Riva” for respiratory and lung disease prediction using FastAPI, Flutter, and Large Language Models (LLMs). The system allows users to enter detailed symptoms and personal health information such as age and smoking status, then predicts potential respiratory diseases using Llama-based AI models and prompt engineering techniques. Flutter was used to develop the frontend mobile application, while FastAPI was used for the backend services. Built an admin dashboard using SQLAdmin for managing users and monitoring AI-generated diagnoses. PostgreSQL was used for storing user data and diagnostic results.
 Technologies: Python · FastAPI · Flutter · PostgreSQL · Llama · Machine Learning · Audio Processing · Prompt Engineering · SQLAdmin
 
-# 🔗 Project Repositories
+### 🔗 Project Repositories
 
 - Backend (FastAPI):
 https://github.com/khadijamohammadist1998-oss/riva
