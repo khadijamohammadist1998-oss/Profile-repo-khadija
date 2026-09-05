@@ -49,7 +49,20 @@ ________________________________________________________________________________
 An AI-powered ATS resume analyzer built with Python, FastAPI, Prompt Engineering, and LLMs. The system analyzes PDF resumes, evaluates ATS compatibility, compares resumes with job descriptions, and generates intelligent recommendations.
 
 🔗 https://github.com/khadijamohammadist1998-oss/LLM-Powered-Resume-Analyzer
+_____________________________________________________________________________________________________________________________________________________
 
+## PowerHud
+
+Flutter Mobile Application Project
+
+Developed a cross-platform mobile application using Flutter and Dart with a responsive and user-friendly UI.
+Implemented push notifications to improve user engagement and deliver real-time updates.
+Integrated local storage and state management to enhance app performance and user experience.
+Focused on clean code practices, reusable components, and smooth navigation between screens.
+
+Technologies used: Flutter, Dart, Firebase Notifications.
+
+🔗 https://github.com/khadijamohammadist1998-oss/Power
 _____________________________________________________________________________________________________________________________________________________
 
 # 📚 Publications & Research
